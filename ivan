@@ -1,0 +1,40 @@
+public class Ivan1 
+{
+
+	public static void main(String[] args)
+	{
+		System.out.println("text");
+		//That line of code prints out "text".
+	}
+
+}
+public class Ivan1 
+{
+
+	public static void main(String[] args)
+	{
+		int myInt = 4;
+	    myInt = myInt*5;
+		System.out.println(myInt);
+		
+		double myDouble = 4;
+		myDouble = myDouble/5;
+		System.out.println(myDouble);
+		
+		int[] myArray = new int[5];
+		myArray[0] = 4;
+		System.out.println(myArray[1]);
+		
+		String myString = "Hi there ";
+		System.out.println(myString);
+		
+		boolean myBoolean = false;
+				System.out.println(myBoolean);
+				
+				char alpha = 3;
+						System.out.println(alpha);				
+	}
+
+}
+
+
